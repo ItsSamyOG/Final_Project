@@ -6,30 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
+    path: Assets/SM_Scenes/SM_Main Menu.unity
     guid: 577abf800a95f184187dbe22802277fd
   - enabled: 1
-    path: Assets/Scenes/Settings.unity
+    path: Assets/SM_Scenes/SM_Settings.unity
     guid: 58c20918a5d835d42979979b632e65dc
   - enabled: 1
-    path: Assets/Scenes/Levels.unity
+    path: Assets/SM_Scenes/SM_Levels.unity
     guid: e6e803bc3f1887c489ce6be06cc57ed6
   - enabled: 1
-    path: Assets/Scenes/1Map.unity
+    path: Assets/SM_Scenes/SM_1Map.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/2Map.unity
+    path: Assets/SM_Scenes/SM_2Map.unity
     guid: 18b3676b9c807a64bb43268b13717728
   - enabled: 1
-    path: Assets/Scenes/3Map.unity
+    path: Assets/SM_Scenes/SM_3Map.unity
     guid: 3a61ea3b9fe9566498a73a506507ec7d
   - enabled: 1
-    path: Assets/Scenes/4Map.unity
+    path: Assets/SM_Scenes/SM_4Map.unity
     guid: ced6e577e43a8b94a84119a4b621e1a2
   - enabled: 1
-    path: Assets/Scenes/5Map.unity
+    path: Assets/SM_Scenes/SM_5Map.unity
     guid: 2b33740284ff0134b90aead29bbf3e4c
   - enabled: 1
-    path: Assets/Scenes/6Map.unity
+    path: Assets/SM_Scenes/SM_6Map.unity
     guid: e3bb5b85d05d08e45b09018057dbb042
   m_configObjects: {}
